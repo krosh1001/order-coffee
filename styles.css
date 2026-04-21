@@ -143,3 +143,7 @@
 .modal-table th {
     background-color: #f9f9f9;
 }
+
+.input-error {
+    border: 2px solid red !important;
+}
